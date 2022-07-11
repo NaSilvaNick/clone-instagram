@@ -1,0 +1,38 @@
+footer {
+    padding: 0 1rem;
+}
+
+footer .links {
+    margin-top: 1.5rem;
+}
+
+footer .about, footer .topics, footer .info {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+footer .text {
+    color: var(--cinza);
+    font-size: .75rem;
+    text-decoration: none;
+}
+
+footer .links .text {
+    margin: 0px 8px 12px;
+}
+
+footer .info {
+    margin: 12px 0;
+}
+
+footer .info select {
+    border: none;
+    background-color: inherit;
+}
+
+footer .info p {
+    margin-left: 1rem;
+}
