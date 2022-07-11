@@ -13,7 +13,7 @@ você pode conferir em `/projeto_base/`
 │   └── style.css
 ├── img
 │   ├── applestore.png
-│   ├── icone.ico
+│   ├── icone.png
 │   ├── logo.png
 │   ├── molde.png
 │   ├── playstore.png
