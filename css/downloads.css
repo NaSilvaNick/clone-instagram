@@ -1,0 +1,33 @@
+.downloads {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.downloads .text p {
+    font-size: 1rem;
+    text-align: center;
+    margin: 10px 20px;
+}
+
+.downloads .links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.downloads .links a {
+    background-color: aqua;
+    
+}
+
+.downloads .links img {
+    display: block;
+    height: 2.5rem;
+}
+
+.downloads .links a:first-child {
+    margin-right: .5rem;
+}
