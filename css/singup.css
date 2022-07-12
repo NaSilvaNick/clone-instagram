@@ -1,0 +1,41 @@
+.singup {
+    border: 1px solid #DADADB;
+    background-color: #FEFEFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.singup div {
+    margin: 15px;
+}
+
+.singup p {
+    font-size: 14px;
+    text-align: center;
+    color: grey;
+    margin: 0;
+}
+
+.singup .conta p:first-child {
+    margin-bottom: 4px;
+}
+
+.singup .link {
+    color: #0095F6;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.singup .link:active {
+    color: #B2DEFD;
+}
+
+@media (max-width: 450px) {
+    .singup {
+        border: none;
+    }
+}
