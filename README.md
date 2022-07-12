@@ -18,7 +18,8 @@ A imagem do iphone com o aplicativo foi exportada do UI Kit do Intagram feito po
 ├── css
 │   ├── footer.css
 │   ├── phones.css
-│   └── style.css
+│   ├── style.css
+|   └── downloads.css
 |
 ├── img
 │   ├── applestore.png
