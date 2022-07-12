@@ -11,6 +11,7 @@ você pode conferir em `/projeto_base/`
 ```
 ├── css
 │   └── style.css
+|   └── footer.css
 ├── img
 │   ├── applestore.png
 │   ├── icone.png
