@@ -7,21 +7,31 @@ Para esse projeto foi utilizado:
 A interface escolhida foi a do site oficial do [instagram](https://www.instagram.com/) no dia 11 de Julho de 2022
 você pode conferir em `/projeto_base/`
 
+#### Imagens
+
+As imagens foram retiradas do do site oficial do [instagram](https://www.instagram.com/).
+
+A imagem do iphone com o aplicativo foi exportada do UI Kit do Intagram feito por este [autor](https://www.figma.com/@ashleykseo), confira [aqui](https://www.figma.com/community/file/878318142103232907)
+
 ### A estrutura do projeto 👇
 ```
 ├── css
+│   ├── footer.css
+│   ├── phones.css
 │   └── style.css
-|   └── footer.css
+|
 ├── img
 │   ├── applestore.png
 │   ├── icone.png
 │   ├── logo.png
 │   ├── molde.png
 │   ├── playstore.png
-│   └── tela.png
+│   └── iphone.png
+|
 ├── projeto_base
 │   ├── base_conta.png
 │   └── base.png
+|
 ├── index.html
 └── README.md
 ```
