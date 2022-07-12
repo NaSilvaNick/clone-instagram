@@ -1,6 +1,7 @@
 @import url('./footer.css');
 @import url('./phones.css');
 @import url('./downloads.css');
+@import url('./singup.css');
 
 :root {
     --cinza: grey;
@@ -20,4 +21,8 @@ main {
     align-items: center;
     justify-content: center;
     padding-bottom: 2rem;
+}
+
+.hidden {
+    display: none;
 }
