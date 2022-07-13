@@ -28,10 +28,11 @@
     color: #0095F6;
     font-weight: bolder;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .singup .link:active {
-    color: #B2DEFD;
+    color: #4CB4F8;
 }
 
 @media (max-width: 450px) {

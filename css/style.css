@@ -1,7 +1,11 @@
 @import url('./footer.css');
 @import url('./phones.css');
 @import url('./downloads.css');
-@import url('./singup.css');
+@import url('./signup.css');
+@import url('./signin.css');
+@import url('./login_conta.css');
+@import url('./login_form.css');
+@import url('./login.css');
 
 :root {
     --cinza: grey;
