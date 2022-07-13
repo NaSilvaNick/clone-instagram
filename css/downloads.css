@@ -9,6 +9,7 @@
     font-size: 1rem;
     text-align: center;
     margin: 10px 20px;
+    color: var(--black);
 }
 
 .downloads .links {
@@ -16,11 +17,6 @@
     align-items: center;
     justify-content: center;
     margin: 10px 0;
-}
-
-.downloads .links a {
-    background-color: aqua;
-    
 }
 
 .downloads .links img {

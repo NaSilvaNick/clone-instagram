@@ -16,7 +16,11 @@
 }
 
 .conta .button__link {
-    margin: 16px 40px 20px;
+    margin: 16px auto 20px;
+}
+
+.conta .button__link button {
+    width: auto;
 }
 
 .conta .remove {

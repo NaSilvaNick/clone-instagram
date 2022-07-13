@@ -1,4 +1,4 @@
-.singup {
+.signup {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -7,34 +7,22 @@
     margin-bottom: 10px;
 }
 
-.singup div {
+.signup div {
     margin: 15px;
 }
 
-.singup p {
+.signup p {
     font-size: 14px;
     text-align: center;
-    color: var(--black);
     margin: 0;
 }
 
-.singup .conta p:first-child {
+.signup .conta p {
+    color: var(--grey);
+}
+.signup .form p {
+    color: var(--black);
+}
+.signup .conta p:first-child {
     margin-bottom: 4px;
-}
-
-.singup .link {
-    color: #0095F6;
-    font-weight: bolder;
-    text-decoration: none;
-    cursor: pointer;
-}
-
-.singup .link:active {
-    color: #4CB4F8;
-}
-
-@media (max-width: 450px) {
-    .singup {
-        border: none;
-    }
 }
