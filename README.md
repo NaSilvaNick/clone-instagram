@@ -15,6 +15,7 @@ A imagem do iphone com o aplicativo foi exportada do UI Kit do Intagram feito po
 
 ### A estrutura do projeto 👇
 ```
+│
 ├── css
 │   ├── downloads.css
 │   ├── footer.css
@@ -25,19 +26,19 @@ A imagem do iphone com o aplicativo foi exportada do UI Kit do Intagram feito po
 │   ├── signin.css
 │   ├── signup.css
 │   └── style.css
-|
+│
 ├── img
-│   ├── applestore.png
-│   ├── icone.png
-│   ├── logo.png
-│   ├── molde.png
-│   ├── playstore.png
-│   └── iphone.png
-|
+│   ├── applestore.png
+│   ├── favicon.ico
+│   ├── iphone.png
+│   ├── logo.png
+│   ├── molde.png
+│   └── playstore.png
+│
 ├── projeto_base
-│   ├── base_conta.png
-│   └── base.png
-|
+│   ├── base_conta.png
+│   └── base.png
+│
 ├── index.html
 └── README.md
 ```
