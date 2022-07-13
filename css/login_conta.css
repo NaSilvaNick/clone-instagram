@@ -1,0 +1,21 @@
+.conta {
+    width: 100%;
+}
+
+.conta .profile img {
+    /* display: block; */
+    width: 84px;
+    height: 84px;
+    border-radius: 100%;
+    margin: 8px 0 16px;
+}
+
+.conta .button__link {
+    margin: 16px 40px 20px;
+}
+
+.conta .remove {
+    margin-bottom: 20px;
+    font-size: 14px;
+    text-align: center;
+}
