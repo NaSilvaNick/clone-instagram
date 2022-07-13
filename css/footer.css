@@ -11,7 +11,7 @@ footer .about, footer .topics, footer .info {
 }
 
 footer .text {
-    color: var(--cinza);
+    color: var(--grey);
     font-size: .75rem;
     text-decoration: none;
 }

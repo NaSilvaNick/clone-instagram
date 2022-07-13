@@ -3,15 +3,15 @@
 }
 
 .box {
-    border: 1px solid #DADADB;
-    background-color: #FEFEFF;
+    border: 1px solid var(--grey-light);
+    background-color: var(--grey-background-light);
     padding: 10px 0;
     margin-bottom: 10px;
 }
 
 .signin .button__link button {
-    border: 1px solid #0195F6;
-    background-color: #0195F6;
+    border: 1px solid var(--blue);
+    background-color: var(--blue);
     border-radius: 4px;
     padding: 5px 9px;
     cursor: pointer;
@@ -19,22 +19,22 @@
 }
 
 .signin .button__link button:active {
-    background-color: #4CB4F8;
+    background-color: var(--blue-active);
 }
 
 .signin .button__link button:disabled {
-    background-color: #B2DEFD;
+    background-color: var(--blue-disabled);
 }
 
 .signin .button__link span {
     font-size: 1rem;
     font-weight: 600;
-    color: #FEFEFF;
+    color: var(--grey-background-light);
     text-align: center;
 }
 
 .link {
-    color: #0095F6;
+    color: var(--blue);
     font-weight: bolder;
     text-decoration: none;
     cursor: pointer;
@@ -42,11 +42,11 @@
 }
 
 .link:active {
-    color: #4CB4F8;
+    color: var(--blue-active);
 }
 
 .link:disabled {
-    background-color: #B2DEFD;
+    background-color: var(--blue-disabled);
 }
 
 @media (max-width: 450px) {

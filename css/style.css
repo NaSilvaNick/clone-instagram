@@ -8,7 +8,16 @@
 @import url('./login.css');
 
 :root {
-    --cinza: grey;
+    --black: #141414;
+    --blue: #0195F6;
+    --blue-active: #4CB4F8;
+    --blue-disabled: #B2DEFD;
+    --blue-facebook: #385185;
+    --grey: #8C8C8C;
+    --grey-light: #DADADB;
+    --grey-background: #FBFBFA;
+    --grey-background-light: #FEFEFF;
+
     font-size: 16px;
     font-family: sans-serif;
 }
@@ -19,7 +28,7 @@ html, body {
 }
 
 body {
-    background-color: #FBFBFA;
+    background-color: var(--grey-background);
     height: 100vh;
     display: flex;
     flex-direction: column;

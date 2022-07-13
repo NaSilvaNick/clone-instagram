@@ -14,7 +14,7 @@
 }
 
 .form form input {
-    border: 1px solid #DADADB;
+    border: 1px solid var(--grey-light);
     border-radius: 3px;
     padding: 8px;
     width: 100%;
@@ -23,7 +23,7 @@
 }
 
 .form form input::placeholder {
-    color: grey;
+    color: var(--grey);
     font-size: 13px;
 }
 
@@ -40,10 +40,11 @@
 .form .division__text {
     padding: 0 10px;
     font-size: 14px;
+    color: var(--grey);
 }
 
 .form .division__line {
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid var(--grey-light);
     display: block;
     width: 100%;
 }
@@ -67,7 +68,7 @@
 
 .form .facebook p {
     margin: 0;
-    color: #385185;
+    color: var(--blue-facebook);
     font-size: 14px;
     font-weight: 600;
 }
@@ -79,7 +80,7 @@
 .form .password a {
     text-decoration: none;
     font-size: 13px;
-    color: #385185;
+    color: var(--blue-facebook);
     display: block;
     text-align: center;
 }
