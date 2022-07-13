@@ -17,6 +17,7 @@
     --grey-light: #DADADB;
     --grey-background: #FBFBFA;
     --grey-background-light: #FEFEFF;
+    --grey-background-input: #FAFAFA;
 }
 
 * {
@@ -26,6 +27,10 @@
 html, body {
     padding: 0;
     margin: 0;
+}
+
+html {
+    overflow-y: scroll;
 }
 
 body {
@@ -40,6 +45,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-grow: 1;
     padding: 32px 0;
 }
 
