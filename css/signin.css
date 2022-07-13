@@ -1,0 +1,43 @@
+.signin {
+    width: 350px;
+}
+
+.signin .button__link button {
+    border: 1px solid #0195F6;
+    background-color: #0195F6;
+    border-radius: 4px;
+    padding: 5px 9px;
+    cursor: pointer;
+    display: block;
+}
+
+.signin .button__link button:active {
+    background-color: #4CB4F8;
+}
+
+.signin .button__link button:disabled {
+    background-color: #B2DEFD;
+}
+
+.signin .button__link span {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #FEFEFF;
+    text-align: center;
+}
+
+.link {
+    color: #0095F6;
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 0;
+}
+
+.link:active {
+    color: #4CB4F8;
+}
+
+.link:disabled {
+    background-color: #B2DEFD;
+}
