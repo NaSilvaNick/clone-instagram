@@ -1,12 +1,11 @@
 .downloads {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
 }
 
 .downloads .text p {
-    font-size: 1rem;
+    font-size: 14px;
     text-align: center;
     margin: 10px 20px;
     color: var(--black);
@@ -21,9 +20,9 @@
 
 .downloads .links img {
     display: block;
-    height: 2.5rem;
+    height: 40px;
 }
 
 .downloads .links a:first-child {
-    margin-right: .5rem;
+    margin-right: 8px;
 }

@@ -42,8 +42,9 @@
 }
 
 .form .division__text {
-    padding: 0 10px;
-    font-size: 14px;
+    padding: 0 20px;
+    font-size: 13px;
+    font-weight: 600;
     color: var(--grey);
 }
 

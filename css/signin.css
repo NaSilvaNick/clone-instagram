@@ -30,7 +30,7 @@
 }
 
 .signin .button__link span {
-    font-size: 1rem;
+    font-size: 16px;
     font-weight: 600;
     color: var(--grey-background-light);
     text-align: center;

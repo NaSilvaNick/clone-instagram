@@ -17,8 +17,9 @@
     --grey-light: #DADADB;
     --grey-background: #FBFBFA;
     --grey-background-light: #FEFEFF;
+}
 
-    font-size: 16px;
+* {
     font-family: sans-serif;
 }
 
@@ -44,7 +45,7 @@ main {
 }
 
 footer {
-    padding: 0 1rem;
+    padding: 0 16px;
     margin-bottom: 52px;
 }
 

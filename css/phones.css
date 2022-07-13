@@ -8,15 +8,15 @@
 .phones div {
     position: relative;
     width: 378px;
-    margin-right: 2rem;
-    margin-bottom: .75rem;
+    margin-right: 32px;
+    margin-bottom: 12px;
 }
 
 .phones div .screen {
     position: absolute;
     width: 286px;
-    left: 5.75rem;
-    top: .5rem;
+    left: 92px;
+    top: 8px;
 }
 
 @media (max-width: 875px) {
