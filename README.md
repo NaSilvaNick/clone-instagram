@@ -16,11 +16,15 @@ A imagem do iphone com o aplicativo foi exportada do UI Kit do Intagram feito po
 ### A estrutura do projeto 👇
 ```
 ├── css
-│   ├── footer.css
-│   ├── phones.css
-│   ├── style.css
-│   ├── downloads.css
-│   └── singup.css
+│   ├── downloads.css
+│   ├── footer.css
+│   ├── login_conta.css
+│   ├── login.css
+│   ├── login_form.css
+│   ├── phones.css
+│   ├── signin.css
+│   ├── signup.css
+│   └── style.css
 |
 ├── img
 │   ├── applestore.png
