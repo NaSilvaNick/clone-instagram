@@ -2,13 +2,20 @@
     width: 350px;
 }
 
+.box {
+    border: 1px solid #DADADB;
+    background-color: #FEFEFF;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
 .signin .button__link button {
     border: 1px solid #0195F6;
     background-color: #0195F6;
     border-radius: 4px;
     padding: 5px 9px;
     cursor: pointer;
-    display: block;
+    width: 100%;
 }
 
 .signin .button__link button:active {
@@ -40,4 +47,11 @@
 
 .link:disabled {
     background-color: #B2DEFD;
+}
+
+@media (max-width: 450px) {
+    .box {
+        border: none;
+        background-color: unset;
+    }
 }

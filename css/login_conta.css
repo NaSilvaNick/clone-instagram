@@ -2,8 +2,13 @@
     width: 100%;
 }
 
+.conta .profile {
+    display: flex;
+    justify-content: center;
+}
+
 .conta .profile img {
-    /* display: block; */
+    display: block;
     width: 84px;
     height: 84px;
     border-radius: 100%;
